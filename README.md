@@ -1,3 +1,10 @@
+## 📓 Proyecto Data Science I
+
+Para ver y ejecutar el notebook, haz clic en el siguiente enlace:
+
+[Proyecto DS_I.ipynb - Google Colab](https://colab.research.google.com/github/JorgeTabera/CoderH_DataScienceI/blob/main/Proyecto%20DS_I.ipynb)
+
+
 Predicción y análisis de partidos internacionales de fútbol masculino
 Trabajo Final - Curso de Data Science - CoderHouse
 
